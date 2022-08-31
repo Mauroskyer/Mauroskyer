@@ -40,6 +40,9 @@
 
 ---
 
+[twitter]: https://twitter.com/mauarte1997
+[linkedin]: https://www.linkedin.com/in/mauro-arteaga-754543241/
+
 <!--
 **Mauroskyer/Mauroskyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
