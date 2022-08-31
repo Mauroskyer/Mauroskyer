@@ -40,8 +40,15 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauroskyer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mauroskyer's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroskyer&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauroskyer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mauroskyer's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+
+---
+
+### 💥Top Languages:
+*NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroskyer&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
