@@ -2,7 +2,7 @@
 
 ---
 
-### I am a Developer by passion, dedicated 💪, who loves to learn new things, fast learning every day ☀️, self-taught, creative, responsible and innovative.
+### I am a Developer by passion, dedicated 💪, who loves to learn new things, fast learner ☀️, self-taught, creative, responsible and innovative.
 
 ---
 
