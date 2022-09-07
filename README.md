@@ -44,10 +44,6 @@
 
 ---
 
-### 💥Top Languages:
-*NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroskyer&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
