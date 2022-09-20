@@ -8,7 +8,7 @@
 
 ###  About me
 
-- 🎓 I’m currently learning SQL
+- 🎓 I’m currently learning React Native and TypeScript.
 
 - 💻 I am looking to collaborate in the development of web and mobile applications. 
 
