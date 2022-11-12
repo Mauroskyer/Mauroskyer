@@ -14,7 +14,7 @@
 
 - 💼 FrontEnd
 
-- ❤️ I  love working with react , and build web and mobile applications
+- ❤️ I  love working with react, build web and mobile applications
 
 - 🎪 Fun fact: I like play videogames, cooking, meditation and nature
 
