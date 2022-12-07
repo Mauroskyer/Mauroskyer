@@ -49,7 +49,7 @@
 ---
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mauroskyer&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-Mauroskyer.vercel.app/?username=Mauroskyer&theme=dracula)](https://github.com/ryo-ma/github-profile-Mauroskyer)
 
 [twitter]: https://twitter.com/mauarte1997
 [linkedin]: https://www.linkedin.com/in/mauro-arteaga-754543241/
