@@ -8,7 +8,7 @@
 
 ###  About me
 
-- 🎓 I’m currently learning React Native and TypeScript.
+- 🎓 I’m currently learning Django.
 
 - 💻 I am looking to collaborate in the development of web and mobile applications. 
 
@@ -16,7 +16,7 @@
 
 - ❤️ I  love working with react, build web and mobile applications
 
-- 🎪 Fun fact: I like play videogames, cooking, meditation and nature
+- 🎪 Hobbies : Meditation, play video games, cooking, dancing, reading.
 
 ---
 
@@ -48,23 +48,9 @@
 
 ---
 
-### 🏆 Trophies
-[![trophy](https://github-profile-Mauroskyer.vercel.app/?username=Mauroskyer&theme=dracula)](https://github.com/ryo-ma/github-profile-Mauroskyer)
+
 
 [twitter]: https://twitter.com/mauarte1997
 [linkedin]: https://www.linkedin.com/in/mauro-arteaga-754543241/
 
-<!--
-**Mauroskyer/Mauroskyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on web development projects....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
