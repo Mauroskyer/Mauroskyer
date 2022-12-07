@@ -48,6 +48,14 @@
 
 ---
 
+<a href="https://github.com/Mauroskyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroskyer&hide=html,css&theme=dark&show_icons=true" />
+</a>
+
+<a href="https://github.com/Mauroskyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mauroskyer&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="colomfernando GitHub Stats" />
+</a>
+
 
 
 [twitter]: https://twitter.com/mauarte1997
