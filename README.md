@@ -1,4 +1,4 @@
-## Hi !, I'm Mauro  👋
+## Hi ! I'm Mauro  👋
 
 ---
 
