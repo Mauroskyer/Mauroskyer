@@ -43,14 +43,11 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauroskyer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mauroskyer's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"></a>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroskyer&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <a href="https://github.com/Mauroskyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroskyer&hide=html,css&theme=dark&show_icons=true" />
 </a>
+
+---
 
 <a href="https://github.com/Mauroskyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mauroskyer&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="colomfernando GitHub Stats" />
