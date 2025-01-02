@@ -2,21 +2,12 @@
 
 ---
 
-### I am a Developer by passion, dedicated 💪, who loves to learn new things, fast learner ☀️, self-taught, creative, responsible and innovative.
-
----
-
-###  About me
-
-- 🎓 I’m currently learning Django.
-
-- 💻 I am looking to collaborate in the development of web and mobile applications. 
-
-- 💼 FrontEnd
-
-- ❤️ I  love working with react, build web and mobile applications
-
-- 🎪 Hobbies : Meditation, play video games, cooking, dancing, reading.
+### 🌟 Front-End & React Native Developer | Creative
+### 💻 Web and Mobile Solutions Specialist
+### 🔧 Innovative and Problem-Solving
+### Turning challenges into digital experiences
+### Committed to quality and continuous improvement
+### Technology, purpose, and self-discovery
 
 ---
 
