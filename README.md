@@ -29,18 +29,5 @@ More about me → Instagram
 
 ---
 
-### 📊 Stats
-
-<a href="https://github.com/Mauroskyer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroskyer&theme=dark&show_icons=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/Mauroskyer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauroskyer&show_icons=true&theme=dark&count_private=true" />
-</a>
-
----
 
 
